@@ -1,3 +1,6 @@
+# Dmitrijs Arkašarins, da16019
+# UZ ATVĒRTIEM DATIEM BALSTĪTA REĢIONAM LĪDZĪGĀ RELJEFA ĢENERĒŠANA, maģistra darbs
+
 file_object  = open("OUTPUT_GENERIC.file.txt", "r")
 
 mylist = list()
