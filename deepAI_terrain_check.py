@@ -1,3 +1,6 @@
+# Dmitrijs Arkašarins, da16019
+# UZ ATVĒRTIEM DATIEM BALSTĪTA REĢIONAM LĪDZĪGĀ RELJEFA ĢENERĒŠANA, maģistra darbs
+
 import requests, time
 freeAPIKey = 'quickstart-QUdJIGlzIGNvbWluZy4uLi4K' # dažus testus var veikt ar sniegto bezmaksas API atslēgto, bet tālāk jāiegūst sava bezmaksas atslēga, piereģistrējoties Deep AI kopienā
 userAPIKey = '71bd34fc-a7ac-*************' # privāta atslēga neierobežotai lietošanai
